@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{FAA899D1-A975-4437-955E-EE8DF7F224A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA899D1-A975-4437-955E-EE8DF7F224A9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FAA899D1-A975-4437-955E-EE8DF7F224A9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FAA899D1-A975-4437-955E-EE8DF7F224A9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FAA899D1-A975-4437-955E-EE8DF7F224A9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D17D5F1F-AFB4-478F-903B-9A34E476A1CC}
+	EndGlobalSection
+EndGlobal
